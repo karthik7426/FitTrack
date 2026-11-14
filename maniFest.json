@@ -1,0 +1,11 @@
+{
+  "name": "FitTrack",
+  "short_name": "FitTrack",
+  "description": "GPS Walking and Running Tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "orientation": "portrait",
+  "icons": []
+}
