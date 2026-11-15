@@ -5,7 +5,10 @@ const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./gps.js",
-  "./manifest.json"
+  "./manifest.json",
+  "./icon-192.png",
+  "./icon-512.png",
+  "./favicon.png"
 ];
 
 self.addEventListener("install", event => {
